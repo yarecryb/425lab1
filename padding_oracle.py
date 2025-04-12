@@ -88,5 +88,6 @@ def main():
     except Exception as e:
         print("Failed to unpad or decode:", e)
 
+
 if __name__ == "__main__":
     main()
